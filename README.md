@@ -1,18 +1,4 @@
-<p align="center">
-  <svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
-    
-    <defs>
-      <clipPath id="avatarClip">
-        <circle cx="125" cy="120" r="85" />
-      </clipPath>
-    </defs>
 
-    <image href="./avatar.png" x="40" y="35" width="170" height="170" clip-path="url(#avatarClip)"/>
-    
-    <image href="./frame.png" x="0" y="0" width="250" height="250" />
-
-  </svg>
-</p>
 <p align="center">
   <img src="./ogimage.jpg" width="100%" />
 </p>

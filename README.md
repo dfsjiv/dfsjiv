@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kylelobo/The-Documentation-Compendium/master/images/waterflow.gif" width="100%" height="150" />
+  <img src="./ogimage.jpg" width="100%" />
 </p>
 
 <h1 align="center">🌸 Welcome to dfsjiv's Space 🌸</h1>

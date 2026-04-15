@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&height=200&section=header&text=Welcome%20to%20dfsjiv's%20Space&fontSize=40" />
+</div>
 ### Hi there 👋
 
 # 📊 My GitHub Summary
